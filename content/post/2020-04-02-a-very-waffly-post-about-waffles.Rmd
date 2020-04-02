@@ -1,0 +1,22 @@
+---
+title: A very waffly post about waffles
+author: Sheradan Miller
+date: '2020-04-02'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+I want to talk about waffles. But, the truth is that I actually don't loads about them. Here are some things I don't know about waffles:
+
+## A heading
+
+- Why they exist
+- how they exist
+- who they exist
+
+![](https://placekitten.com/200/300)
+
+$$
+1 + 3 = 7
+$$
